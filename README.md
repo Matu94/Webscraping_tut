@@ -1,2 +1,1 @@
-# Webscraping_tut
-Webscraping tutorials
+# Webscraping tutorials
